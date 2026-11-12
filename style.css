@@ -1,0 +1,45 @@
+body {
+    background-color: #c9adf7;
+    font-family: Arial, sans-serif;
+    size: 20px;
+}
+
+h1 {
+    color: #1e1227;
+    text-align: center;
+}
+
+div {
+    margin: 20px;
+    padding: 20px;
+    background-color: #4e2d72;
+    border-radius: 10px;
+    border: 2px solid #38035e;
+}
+
+.lobas{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#listas{
+    font-size: 16px;
+    font-style: italic;
+}
+
+.tarjeta {
+    background-color: #ffffff;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 100px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.cabeza{
+    font-size: 24px;
+    font-weight: bold;
+    color: #dcb6f7;
+    margin-bottom: 20px;
+}
